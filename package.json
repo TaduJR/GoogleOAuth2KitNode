@@ -1,0 +1,13 @@
+{
+  "name": "googleoauth2kit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "author": "TaduJR",
+  "license": "ISC",
+  "dependencies": {
+    "google-auth-library": "^9.8.0",
+    "readline-sync": "^1.4.10"
+  }
+}
